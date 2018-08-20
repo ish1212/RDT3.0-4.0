@@ -1,3 +1,8 @@
-# hello-world
+# RDT 3.0 
+Stop and Wait ARQ
 
-Hey! I am Ish. Lets get this github started.
+# RDT 4.0 
+Extended Stop and Wait ARQ
+
+
+See attached PDF
